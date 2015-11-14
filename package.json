@@ -1,0 +1,23 @@
+{
+  "name": "astrocharts",
+  "version": "1.0.0",
+  "description": "A Node.js module for drawing astrological charts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morphatic/astrocharts.git"
+  },
+  "keywords": [
+    "astrology",
+    "d3"
+  ],
+  "author": "Morgan Benton <morgan.benton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morphatic/astrocharts/issues"
+  },
+  "homepage": "https://github.com/morphatic/astrocharts#readme"
+}
